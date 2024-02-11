@@ -18,7 +18,7 @@
 <a href="https://www.linkedin.com/in/bikramjit-nath-3a8ab51b5/?originalSubdomain=in" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/800px-LinkedIn_icon_circle.svg.png" alt="rajdeep-datta-bbb0b3247" height="40" width="40" /></a>
 <a href="https://instagram.com/vikram.jit03" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Instagram.svg/1200px-Instagram.svg.png" alt="ra_jd_eep_" height="40" width="40" /></a>
 <a href="https://www.leetcode.com/rajdeepdatta2016" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-3521542-2944960.png" alt="rajdeepdatta2016" height="30" width="40" /></a>
-<a href="[https://www.codingninjas.com/studio/profile/Rajdeepdatta](https://www.codingninjas.com/studio/home)" target="blank"><img align="center" src="https://successinsightsindia.com/wp-content/uploads/2022/05/1BD6CFD3-EECF-44CE-BD45-E616C9F42E06.jpeg" height="40" width="60" /></a>
+<a href="https://www.codingninjas.com/studio/home" target="blank"><img align="center" src="https://successinsightsindia.com/wp-content/uploads/2022/05/1BD6CFD3-EECF-44CE-BD45-E616C9F42E06.jpeg" height="40" width="60" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
