@@ -30,6 +30,6 @@
     *2<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajdeepdatta2016&" alt="rajdeepdatta2016" /></p>
  -->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajdeepdatta2016&show_icons=true&locale=en&layout=compact" alt="rajdeepdatta2016" /></p>
+<p>/></p>
 
 
